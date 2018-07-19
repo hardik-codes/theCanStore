@@ -1,4 +1,4 @@
 # theCanStore
 
 
-A simple project to covert Fetch into XHR
+A simple project to convert Fetch into XHR
